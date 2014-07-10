@@ -1,7 +1,2 @@
-first Git!
-<<<<<<< HEAD
-Hello, Git!
-insert system-b
-=======
 Hello,Git World!
->>>>>>> master
+insert system-b
